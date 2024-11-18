@@ -1,0 +1,5 @@
+pandas
+numpy
+scikit-learn
+flask  # or gradio/streamlit for UI
+joblib
